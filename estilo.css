@@ -1,0 +1,137 @@
+*{
+    font-family: "OpenSans-Regular";
+}
+body{
+    background-color: #F2F2F2;
+}
+.banca{
+    float: left;
+    height: 1.5em;
+    padding-left: 9em;
+    padding-top:2em;
+}
+.ayuda{
+    float: right;
+    margin-right: 10em;
+    margin-top:0.5em;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: bold;   
+}
+.material-icons{
+    color:#3ea792;   
+ text-align: center;
+}
+header{
+    background-color:#F2F2F2;
+    height: 5.5em;
+}
+.for{
+    margin: 0 0 0 0;
+    padding-top:1.5em;
+    margin-left: -12px;
+    margin-right: -12px;
+    font-size: 30px;
+    text-align: center;
+    background-color: #2B2B2D;
+    height: 3em;
+    color: white;
+    border-radius: 15px 15px 0 0;    
+}
+fieldset{
+    border: none;
+    border-radius: 15px 15px 15px 15px;
+    background-color: #ffffff;
+    margin-left: 8em;
+    margin-right: 8em;
+    padding-top: 0em;   
+}
+.comen{
+    text-align: center;
+    font-size: 18px;   
+}
+.izq{
+    float:left;
+    padding-left: 5em;
+    font-size: 10px;
+}
+.inpu{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 0.5px #3ea792;
+    background-color: #ffffff;
+    width: 28em;
+    outline: none; 
+    font-size: 15px;
+    margin-top: 1em;
+}
+.der{
+    float: right;
+    padding-right: 5em;
+     font-size: 10px;
+}
+a{
+    color:#3ea792;
+}
+.izq2{
+    float: left;
+    font-size: 12px;
+    padding-left: 3.5em;
+}
+.boton{
+    background-color: #3ea792;
+    color:white;
+    border-radius: 20px;
+     width: 6em;
+  height: 3em;
+  outline: none;
+  border-style: none;
+}
+.boton2{
+    padding-top: 13em;
+    padding-left: 28em;  
+}
+.boton:hover{
+    background-color: white;
+    color:#3ea792;
+}
+.gracias{
+    font-size: 22px;
+      font-weight: bold;
+      text-align: center;
+}
+.comen2{
+    padding-left: 17.5em;
+    padding-right: 17.5em;
+    text-align: justify;
+}
+.boton3{
+    padding-top: 3em;
+    padding-left: 31em;   
+}
+.resul{
+    padding-left: 20em;
+    font-family: "OpenSans-Italic";
+}
+.datos{
+   padding: auto;
+    margin: auto;
+    text-align: left;
+   
+}
+.datos th{
+    color: #3ea792;
+   border: solid 1px black;
+}
+.datos td, tr {
+    border: solid 1px black;
+    font-family: "OpenSans-Regular";
+}
+.basedatos{
+    margin:auto;
+}
+.basedatos2{
+    border: solid 1px #3ea792;
+    padding: 0.7em;
+}
